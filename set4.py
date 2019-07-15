@@ -1,0 +1,7 @@
+food=set(["ice cream","juice","chocolate","chips"])
+print("\nprint the original set")
+print(food)
+print("\nupdating the original set")
+food.update(["juice","chocolate","chips"])
+print("\nprint the modified set")
+print(food)
